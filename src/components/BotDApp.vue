@@ -14,7 +14,7 @@
             label="Number Tokens"
           >
           </v-text-field>
-          <v-btn block color="rgb(249, 104, 84)">
+          <v-btn block color="rgb(249, 104, 84)" @click="actionMint">
             Mint
           </v-btn>
         </v-form>
@@ -55,6 +55,8 @@
 </template>
 
 <script>
+import BOTToken from '@/contracts/bot_token';
+
 export default {
   name: 'BotDApp',
   data() {
@@ -68,6 +70,22 @@ export default {
       totalCharge: 1000000,
     };
   },
+  beforeCreate () {
+    BOTToken.init();
+    BOTToken.getSystemWallet();
+  },
+  methods: {
+    actionMint () {
+      let _mintId = this.mintId;
+      let _mintNumberToken = this.mintNumberToken;
+      console.log("mint token");
+      if (!_mintId || !_mintNumberToken) {
+        window.alert("fill enought information");
+        return;
+      }
+      BOTToken.mintToken(this.mintId, this.mintNumberToken);
+    }
+  }
 };
 </script>
 
