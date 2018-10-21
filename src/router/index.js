@@ -1,15 +1,17 @@
 import Vue from 'vue';
+import Vuetify from 'vuetify';
 import Router from 'vue-router';
-import HelloWorld from '@/components/HelloWorld';
+import BotDApp from '@/components/BotDApp';
 
+Vue.use(Vuetify);
 Vue.use(Router);
 
 export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld,
+      name: 'BotDApp',
+      component: BotDApp,
     },
   ],
 });
