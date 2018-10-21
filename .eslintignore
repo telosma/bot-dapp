@@ -3,3 +3,5 @@
 /dist/
 /*.js
 /node_modules/
+/src/store/
+/src/util/

@@ -14,7 +14,7 @@
             label="Number Tokens"
           >
           </v-text-field>
-          <v-btn block color="rgb(249, 104, 84)">
+          <v-btn block color="rgb(249, 104, 84)" @click="actionMint">
             Mint
           </v-btn>
         </v-form>
@@ -34,7 +34,7 @@
             label="Number Tokens"
           >
           </v-text-field>
-          <v-btn block color="rgb(249, 104, 84)">
+          <v-btn block color="rgb(249, 104, 84)" @click="actionBurn">
             Burn
           </v-btn>
         </v-form>
@@ -50,6 +50,15 @@
           <v-card-text class="px-0">Total Charge: {{totalCharge}}</v-card-text>
         </v-card>
       </v-flex>
+
+      <v-flex xs12>
+        <div class='metamask-info'>
+          <p>Metamask: {{ web3.isInjected }}</p>
+          <p>Network: {{ web3.networkId }}</p>
+          <p>Account: {{ web3.coinbase }}</p>
+          <p>Balance: {{ web3.balance }}</p>
+        </div>
+      </v-flex>
     </v-layout>
   </v-container>
 </template>
@@ -57,6 +66,10 @@
 <script>
 export default {
   name: 'BotDApp',
+  beforeCreate() {
+    console.log('registerWeb3 Action dispatched from casino-dapp.vue');
+    this.$store.dispatch('registerWeb3');
+  },
   data() {
     return {
       msg: 'Welcome to Your BOT App',
@@ -67,6 +80,21 @@ export default {
       currentCharge: 0,
       totalCharge: 1000000,
     };
+  },
+  computed: {
+    web3() {
+      return this.$store.state.web3;
+    },
+  },
+  methods: {
+    actionMint() {
+      console.log('mintNumberToken: ', this.mintNumberToken);
+      console.log('mintId: ', this.mintId);
+    },
+    actionBurn() {
+      console.log('burnnNumberToken: ', this.burnnNumberToken);
+      console.log('burnId: ', this.burnId);
+    },
   },
 };
 </script>
