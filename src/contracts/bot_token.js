@@ -37,12 +37,26 @@ const BOTToken = {
 
   mintToken: (_id, _amount) => {
     let self = this;
-    console.log(window.web3.eth.coinbase)
-    //return new Promise((resolve, reject) => {
-    //  self.instance.mint(_id, _amount, {from: window.web3.eth.accounts[0]})
-    //    .then(response => {resolve(response)})
-    //    .catch(error => {reject(error)});
-    //});
+    return new Promise((resolve, reject) => {
+     self.instance
+     .then(BOTToken => {
+       BOTToken.mint(_id, _amount, {from: window.web3.eth.accounts[0]});
+     })
+       .then(response => {resolve(response)})
+       .catch(error => {reject(error)});
+    });
+  },
+
+  burnToken: (_id, _amount) => {
+    let self = this;
+    return new Promise((resolve, reject) => {
+     self.instance
+     .then(BOTToken => {
+       BOTToken.burnFrom(_id, _amount, {from: window.web3.eth.accounts[0]});
+     })
+       .then(response => {resolve(response)})
+       .catch(error => {reject(error)});
+    });
   }
 };
 

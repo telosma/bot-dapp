@@ -126,24 +126,24 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405260008054600160a860020a031916331790556103e5806100256000396000f3006080604052600436106100825763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633f4ba83a81146100875780635c975abb1461009e578063715018a6146100c75780638456cb59146100dc5780638da5cb5b146100f15780638f32d59b14610122578063f2fde38b14610137575b600080fd5b34801561009357600080fd5b5061009c610158565b005b3480156100aa57600080fd5b506100b36101db565b604080519115158252519081900360200190f35b3480156100d357600080fd5b5061009c6101fc565b3480156100e857600080fd5b5061009c610264565b3480156100fd57600080fd5b506101066102fd565b60408051600160a060020a039092168252519081900360200190f35b34801561012e57600080fd5b506100b361030c565b34801561014357600080fd5b5061009c600160a060020a036004351661031d565b61016061030c565b151561016b57600080fd5b60005474010000000000000000000000000000000000000000900460ff16151561019457600080fd5b6000805474ff0000000000000000000000000000000000000000191681556040517fa45f47fdea8a1efdd9029a5691c7f759c32b7c698632b563573e155625d169339190a1565b60005474010000000000000000000000000000000000000000900460ff1690565b61020461030c565b151561020f57600080fd5b60008054604051600160a060020a03909116917ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482091a26000805473ffffffffffffffffffffffffffffffffffffffff19169055565b61026c61030c565b151561027757600080fd5b60005474010000000000000000000000000000000000000000900460ff161561029f57600080fd5b6000805474ff00000000000000000000000000000000000000001916740100000000000000000000000000000000000000001781556040517f9e87fac88ff661f02d44f95383c817fece4bce600a3dab7a54406878b965e7529190a1565b600054600160a060020a031690565b600054600160a060020a0316331490565b61032561030c565b151561033057600080fd5b6103398161033c565b50565b600160a060020a038116151561035157600080fd5b60008054604051600160a060020a03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a03929092169190911790555600a165627a7a723058205d4ed3121149af8938aca02803c42276eec2fbd851954a99f3a973b42ea5d83a0029",
-  "deployedBytecode": "0x6080604052600436106100825763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633f4ba83a81146100875780635c975abb1461009e578063715018a6146100c75780638456cb59146100dc5780638da5cb5b146100f15780638f32d59b14610122578063f2fde38b14610137575b600080fd5b34801561009357600080fd5b5061009c610158565b005b3480156100aa57600080fd5b506100b36101db565b604080519115158252519081900360200190f35b3480156100d357600080fd5b5061009c6101fc565b3480156100e857600080fd5b5061009c610264565b3480156100fd57600080fd5b506101066102fd565b60408051600160a060020a039092168252519081900360200190f35b34801561012e57600080fd5b506100b361030c565b34801561014357600080fd5b5061009c600160a060020a036004351661031d565b61016061030c565b151561016b57600080fd5b60005474010000000000000000000000000000000000000000900460ff16151561019457600080fd5b6000805474ff0000000000000000000000000000000000000000191681556040517fa45f47fdea8a1efdd9029a5691c7f759c32b7c698632b563573e155625d169339190a1565b60005474010000000000000000000000000000000000000000900460ff1690565b61020461030c565b151561020f57600080fd5b60008054604051600160a060020a03909116917ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482091a26000805473ffffffffffffffffffffffffffffffffffffffff19169055565b61026c61030c565b151561027757600080fd5b60005474010000000000000000000000000000000000000000900460ff161561029f57600080fd5b6000805474ff00000000000000000000000000000000000000001916740100000000000000000000000000000000000000001781556040517f9e87fac88ff661f02d44f95383c817fece4bce600a3dab7a54406878b965e7529190a1565b600054600160a060020a031690565b600054600160a060020a0316331490565b61032561030c565b151561033057600080fd5b6103398161033c565b50565b600160a060020a038116151561035157600080fd5b60008054604051600160a060020a03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a03929092169190911790555600a165627a7a723058205d4ed3121149af8938aca02803c42276eec2fbd851954a99f3a973b42ea5d83a0029",
-  "sourceMap": "174:911:7:-;;;269:5;246:28;;-1:-1:-1;;;;;;564:18:10;572:10;564:18;;;174:911:7;;;;;;",
-  "deployedSourceMap": "174:911:7:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;989:94;;8:9:-1;5:2;;;30:1;27;20:12;5:2;989:94:7;;;;;;353:69;;8:9:-1;5:2;;;30:1;27;20:12;5:2;353:69:7;;;;;;;;;;;;;;;;;;;;;;1274:111:10;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1274:111:10;;;;815:92:7;;8:9:-1;5:2;;;30:1;27;20:12;5:2;815:92:7;;;;642:69:10;;8:9:-1;5:2;;;30:1;27;20:12;5:2;642:69:10;;;;;;;;-1:-1:-1;;;;;642:69:10;;;;;;;;;;;;;;928:82;;8:9:-1;5:2;;;30:1;27;20:12;5:2;928:82:10;;;;1546:101;;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;1546:101:10;-1:-1:-1;;;;;1546:101:10;;;;;989:94:7;826:9:10;:7;:9::i;:::-;818:18;;;;;;;;716:7:7;;;;;;;708:16;;;;;;;;1052:5;1042:15;;-1:-1:-1;;1042:15:7;;;1068:10;;;;1052:5;1068:10;989:94::o;353:69::-;391:4;410:7;;;;;;;353:69::o;1274:111:10:-;826:9;:7;:9::i;:::-;818:18;;;;;;;;1350:5;;;1331:25;;-1:-1:-1;;;;;1350:5:10;;;;1331:25;;;1378:1;1362:18;;-1:-1:-1;;1362:18:10;;;1274:111::o;815:92:7:-;826:9:10;:7;:9::i;:::-;818:18;;;;;;;;563:7:7;;;;;;;562:8;554:17;;;;;;869:7;:14;;-1:-1:-1;;869:14:7;;;;;894:8;;;;869:7;894:8;815:92::o;642:69:10:-;679:7;701:5;-1:-1:-1;;;;;701:5:10;642:69;:::o;928:82::-;967:4;1000:5;-1:-1:-1;;;;;1000:5:10;986:10;:19;;928:82::o;1546:101::-;826:9;:7;:9::i;:::-;818:18;;;;;;;;1614:28;1633:8;1614:18;:28::i;:::-;1546:101;:::o;1781:167::-;-1:-1:-1;;;;;1850:22:10;;;;1842:31;;;;;;1905:5;;;1884:37;;-1:-1:-1;;;;;1884:37:10;;;;1905:5;;;1884:37;;;1927:5;:16;;-1:-1:-1;;1927:16:10;-1:-1:-1;;;;;1927:16:10;;;;;;;;;;1781:167::o",
+  "bytecode": "0x608060405260008054600160a860020a031916331790556103e5806100256000396000f3006080604052600436106100825763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633f4ba83a81146100875780635c975abb1461009e578063715018a6146100c75780638456cb59146100dc5780638da5cb5b146100f15780638f32d59b14610122578063f2fde38b14610137575b600080fd5b34801561009357600080fd5b5061009c610158565b005b3480156100aa57600080fd5b506100b36101db565b604080519115158252519081900360200190f35b3480156100d357600080fd5b5061009c6101fc565b3480156100e857600080fd5b5061009c610264565b3480156100fd57600080fd5b506101066102fd565b60408051600160a060020a039092168252519081900360200190f35b34801561012e57600080fd5b506100b361030c565b34801561014357600080fd5b5061009c600160a060020a036004351661031d565b61016061030c565b151561016b57600080fd5b60005474010000000000000000000000000000000000000000900460ff16151561019457600080fd5b6000805474ff0000000000000000000000000000000000000000191681556040517fa45f47fdea8a1efdd9029a5691c7f759c32b7c698632b563573e155625d169339190a1565b60005474010000000000000000000000000000000000000000900460ff1690565b61020461030c565b151561020f57600080fd5b60008054604051600160a060020a03909116917ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482091a26000805473ffffffffffffffffffffffffffffffffffffffff19169055565b61026c61030c565b151561027757600080fd5b60005474010000000000000000000000000000000000000000900460ff161561029f57600080fd5b6000805474ff00000000000000000000000000000000000000001916740100000000000000000000000000000000000000001781556040517f9e87fac88ff661f02d44f95383c817fece4bce600a3dab7a54406878b965e7529190a1565b600054600160a060020a031690565b600054600160a060020a0316331490565b61032561030c565b151561033057600080fd5b6103398161033c565b50565b600160a060020a038116151561035157600080fd5b60008054604051600160a060020a03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a03929092169190911790555600a165627a7a72305820a3905c7a2edf0a68568716847f7c6562c7e8c29ad90d0c121d2e5b6fc9b3adf50029",
+  "deployedBytecode": "0x6080604052600436106100825763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633f4ba83a81146100875780635c975abb1461009e578063715018a6146100c75780638456cb59146100dc5780638da5cb5b146100f15780638f32d59b14610122578063f2fde38b14610137575b600080fd5b34801561009357600080fd5b5061009c610158565b005b3480156100aa57600080fd5b506100b36101db565b604080519115158252519081900360200190f35b3480156100d357600080fd5b5061009c6101fc565b3480156100e857600080fd5b5061009c610264565b3480156100fd57600080fd5b506101066102fd565b60408051600160a060020a039092168252519081900360200190f35b34801561012e57600080fd5b506100b361030c565b34801561014357600080fd5b5061009c600160a060020a036004351661031d565b61016061030c565b151561016b57600080fd5b60005474010000000000000000000000000000000000000000900460ff16151561019457600080fd5b6000805474ff0000000000000000000000000000000000000000191681556040517fa45f47fdea8a1efdd9029a5691c7f759c32b7c698632b563573e155625d169339190a1565b60005474010000000000000000000000000000000000000000900460ff1690565b61020461030c565b151561020f57600080fd5b60008054604051600160a060020a03909116917ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482091a26000805473ffffffffffffffffffffffffffffffffffffffff19169055565b61026c61030c565b151561027757600080fd5b60005474010000000000000000000000000000000000000000900460ff161561029f57600080fd5b6000805474ff00000000000000000000000000000000000000001916740100000000000000000000000000000000000000001781556040517f9e87fac88ff661f02d44f95383c817fece4bce600a3dab7a54406878b965e7529190a1565b600054600160a060020a031690565b600054600160a060020a0316331490565b61032561030c565b151561033057600080fd5b6103398161033c565b50565b600160a060020a038116151561035157600080fd5b60008054604051600160a060020a03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a03929092169190911790555600a165627a7a72305820a3905c7a2edf0a68568716847f7c6562c7e8c29ad90d0c121d2e5b6fc9b3adf50029",
+  "sourceMap": "174:911:6:-;;;269:5;246:28;;-1:-1:-1;;;;;;564:18:9;572:10;564:18;;;174:911:6;;;;;;",
+  "deployedSourceMap": "174:911:6:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;989:94;;8:9:-1;5:2;;;30:1;27;20:12;5:2;989:94:6;;;;;;353:69;;8:9:-1;5:2;;;30:1;27;20:12;5:2;353:69:6;;;;;;;;;;;;;;;;;;;;;;1274:111:9;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1274:111:9;;;;815:92:6;;8:9:-1;5:2;;;30:1;27;20:12;5:2;815:92:6;;;;642:69:9;;8:9:-1;5:2;;;30:1;27;20:12;5:2;642:69:9;;;;;;;;-1:-1:-1;;;;;642:69:9;;;;;;;;;;;;;;928:82;;8:9:-1;5:2;;;30:1;27;20:12;5:2;928:82:9;;;;1546:101;;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;1546:101:9;-1:-1:-1;;;;;1546:101:9;;;;;989:94:6;826:9:9;:7;:9::i;:::-;818:18;;;;;;;;716:7:6;;;;;;;708:16;;;;;;;;1052:5;1042:15;;-1:-1:-1;;1042:15:6;;;1068:10;;;;1052:5;1068:10;989:94::o;353:69::-;391:4;410:7;;;;;;;353:69::o;1274:111:9:-;826:9;:7;:9::i;:::-;818:18;;;;;;;;1350:5;;;1331:25;;-1:-1:-1;;;;;1350:5:9;;;;1331:25;;;1378:1;1362:18;;-1:-1:-1;;1362:18:9;;;1274:111::o;815:92:6:-;826:9:9;:7;:9::i;:::-;818:18;;;;;;;;563:7:6;;;;;;;562:8;554:17;;;;;;869:7;:14;;-1:-1:-1;;869:14:6;;;;;894:8;;;;869:7;894:8;815:92::o;642:69:9:-;679:7;701:5;-1:-1:-1;;;;;701:5:9;642:69;:::o;928:82::-;967:4;1000:5;-1:-1:-1;;;;;1000:5:9;986:10;:19;;928:82::o;1546:101::-;826:9;:7;:9::i;:::-;818:18;;;;;;;;1614:28;1633:8;1614:18;:28::i;:::-;1546:101;:::o;1781:167::-;-1:-1:-1;;;;;1850:22:9;;;;1842:31;;;;;;1905:5;;;1884:37;;-1:-1:-1;;;;;1884:37:9;;;;1905:5;;;1884:37;;;1927:5;:16;;-1:-1:-1;;1927:16:9;-1:-1:-1;;;;;1927:16:9;;;;;;;;;;1781:167::o",
   "source": "pragma solidity ^0.4.24;\n\nimport \"../ownership/Ownable.sol\";\n/**\n * @title Pausable\n * @dev Base contract which allows children to implement an emergency stop mechanism.\n */\ncontract Pausable is Ownable {\n  event Paused();\n  event Unpaused();\n\n  bool private _paused = false;\n\n  /**\n   * @return true if the contract is paused, false otherwise.\n   */\n  function paused() public view returns(bool) {\n    return _paused;\n  }\n\n  /**\n   * @dev Modifier to make a function callable only when the contract is not paused.\n   */\n  modifier whenNotPaused() {\n    require(!_paused);\n    _;\n  }\n\n  /**\n   * @dev Modifier to make a function callable only when the contract is paused.\n   */\n  modifier whenPaused() {\n    require(_paused);\n    _;\n  }\n\n  /**\n   * @dev called by the owner to pause, triggers stopped state\n   */\n  function pause() public onlyOwner whenNotPaused {\n    _paused = true;\n    emit Paused();\n  }\n\n  /**\n   * @dev called by the owner to unpause, returns to normal state\n   */\n  function unpause() public onlyOwner whenPaused {\n    _paused = false;\n    emit Unpaused();\n  }\n}\n",
-  "sourcePath": "/home/lamluong/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
+  "sourcePath": "/home/lamlt/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
   "ast": {
-    "absolutePath": "/home/lamluong/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
+    "absolutePath": "/home/lamlt/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
     "exportedSymbols": {
       "Pausable": [
-        1159
+        1102
       ]
     },
-    "id": 1160,
+    "id": 1103,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1093,
+        "id": 1036,
         "literals": [
           "solidity",
           "^",
@@ -151,16 +151,16 @@
           ".24"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:7"
+        "src": "0:24:6"
       },
       {
-        "absolutePath": "/home/lamluong/Documents/hackathon/BOT-Token/contracts/openzeppelin/ownership/Ownable.sol",
+        "absolutePath": "/home/lamlt/Documents/hackathon/BOT-Token/contracts/openzeppelin/ownership/Ownable.sol",
         "file": "../ownership/Ownable.sol",
-        "id": 1094,
+        "id": 1037,
         "nodeType": "ImportDirective",
-        "scope": 1160,
-        "sourceUnit": 1443,
-        "src": "26:34:7",
+        "scope": 1103,
+        "sourceUnit": 1386,
+        "src": "26:34:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -170,31 +170,31 @@
             "arguments": null,
             "baseName": {
               "contractScope": null,
-              "id": 1095,
+              "id": 1038,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 1442,
-              "src": "195:7:7",
+              "referencedDeclaration": 1385,
+              "src": "195:7:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$1442",
+                "typeIdentifier": "t_contract$_Ownable_$1385",
                 "typeString": "contract Ownable"
               }
             },
-            "id": 1096,
+            "id": 1039,
             "nodeType": "InheritanceSpecifier",
-            "src": "195:7:7"
+            "src": "195:7:6"
           }
         ],
         "contractDependencies": [
-          1442
+          1385
         ],
         "contractKind": "contract",
         "documentation": "@title Pausable\n@dev Base contract which allows children to implement an emergency stop mechanism.",
         "fullyImplemented": true,
-        "id": 1159,
+        "id": 1102,
         "linearizedBaseContracts": [
-          1159,
-          1442
+          1102,
+          1385
         ],
         "name": "Pausable",
         "nodeType": "ContractDefinition",
@@ -202,38 +202,38 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 1098,
+            "id": 1041,
             "name": "Paused",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 1097,
+              "id": 1040,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "219:2:7"
+              "src": "219:2:6"
             },
-            "src": "207:15:7"
+            "src": "207:15:6"
           },
           {
             "anonymous": false,
             "documentation": null,
-            "id": 1100,
+            "id": 1043,
             "name": "Unpaused",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 1099,
+              "id": 1042,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "239:2:7"
+              "src": "239:2:6"
             },
-            "src": "225:17:7"
+            "src": "225:17:6"
           },
           {
             "constant": false,
-            "id": 1103,
+            "id": 1046,
             "name": "_paused",
             "nodeType": "VariableDeclaration",
-            "scope": 1159,
-            "src": "246:28:7",
+            "scope": 1102,
+            "src": "246:28:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -241,10 +241,10 @@
               "typeString": "bool"
             },
             "typeName": {
-              "id": 1101,
+              "id": 1044,
               "name": "bool",
               "nodeType": "ElementaryTypeName",
-              "src": "246:4:7",
+              "src": "246:4:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_bool",
                 "typeString": "bool"
@@ -253,14 +253,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "66616c7365",
-              "id": 1102,
+              "id": 1045,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "bool",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "269:5:7",
+              "src": "269:5:6",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_bool",
@@ -272,33 +272,33 @@
           },
           {
             "body": {
-              "id": 1110,
+              "id": 1053,
               "nodeType": "Block",
-              "src": "397:25:7",
+              "src": "397:25:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1108,
+                    "id": 1051,
                     "name": "_paused",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 1103,
-                    "src": "410:7:7",
+                    "referencedDeclaration": 1046,
+                    "src": "410:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "functionReturnParameters": 1107,
-                  "id": 1109,
+                  "functionReturnParameters": 1050,
+                  "id": 1052,
                   "nodeType": "Return",
-                  "src": "403:14:7"
+                  "src": "403:14:6"
                 }
               ]
             },
             "documentation": "@return true if the contract is paused, false otherwise.",
-            "id": 1111,
+            "id": 1054,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -306,23 +306,23 @@
             "name": "paused",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1104,
+              "id": 1047,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "368:2:7"
+              "src": "368:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1107,
+              "id": 1050,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1106,
+                  "id": 1049,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1111,
-                  "src": "391:4:7",
+                  "scope": 1054,
+                  "src": "391:4:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -330,10 +330,10 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 1105,
+                    "id": 1048,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
-                    "src": "391:4:7",
+                    "src": "391:4:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
@@ -343,19 +343,19 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "390:6:7"
+              "src": "390:6:6"
             },
-            "scope": 1159,
-            "src": "353:69:7",
+            "scope": 1102,
+            "src": "353:69:6",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1119,
+              "id": 1062,
               "nodeType": "Block",
-              "src": "548:35:7",
+              "src": "548:35:6",
               "statements": [
                 {
                   "expression": {
@@ -363,7 +363,7 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 1115,
+                        "id": 1058,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -371,15 +371,15 @@
                         "nodeType": "UnaryOperation",
                         "operator": "!",
                         "prefix": true,
-                        "src": "562:8:7",
+                        "src": "562:8:6",
                         "subExpression": {
                           "argumentTypes": null,
-                          "id": 1114,
+                          "id": 1057,
                           "name": "_paused",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1103,
-                          "src": "563:7:7",
+                          "referencedDeclaration": 1046,
+                          "src": "563:7:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
                             "typeString": "bool"
@@ -398,21 +398,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 1113,
+                      "id": 1056,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1529,
-                        1530
+                        1472,
+                        1473
                       ],
-                      "referencedDeclaration": 1529,
-                      "src": "554:7:7",
+                      "referencedDeclaration": 1472,
+                      "src": "554:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 1116,
+                    "id": 1059,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -420,41 +420,41 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "554:17:7",
+                    "src": "554:17:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1117,
+                  "id": 1060,
                   "nodeType": "ExpressionStatement",
-                  "src": "554:17:7"
+                  "src": "554:17:6"
                 },
                 {
-                  "id": 1118,
+                  "id": 1061,
                   "nodeType": "PlaceholderStatement",
-                  "src": "577:1:7"
+                  "src": "577:1:6"
                 }
               ]
             },
             "documentation": "@dev Modifier to make a function callable only when the contract is not paused.",
-            "id": 1120,
+            "id": 1063,
             "name": "whenNotPaused",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 1112,
+              "id": 1055,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "545:2:7"
+              "src": "545:2:6"
             },
-            "src": "523:60:7",
+            "src": "523:60:6",
             "visibility": "internal"
           },
           {
             "body": {
-              "id": 1127,
+              "id": 1070,
               "nodeType": "Block",
-              "src": "702:34:7",
+              "src": "702:34:6",
               "statements": [
                 {
                   "expression": {
@@ -462,12 +462,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 1123,
+                        "id": 1066,
                         "name": "_paused",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1103,
-                        "src": "716:7:7",
+                        "referencedDeclaration": 1046,
+                        "src": "716:7:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -481,21 +481,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 1122,
+                      "id": 1065,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1529,
-                        1530
+                        1472,
+                        1473
                       ],
-                      "referencedDeclaration": 1529,
-                      "src": "708:7:7",
+                      "referencedDeclaration": 1472,
+                      "src": "708:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 1124,
+                    "id": 1067,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -503,58 +503,58 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "708:16:7",
+                    "src": "708:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1125,
+                  "id": 1068,
                   "nodeType": "ExpressionStatement",
-                  "src": "708:16:7"
+                  "src": "708:16:6"
                 },
                 {
-                  "id": 1126,
+                  "id": 1069,
                   "nodeType": "PlaceholderStatement",
-                  "src": "730:1:7"
+                  "src": "730:1:6"
                 }
               ]
             },
             "documentation": "@dev Modifier to make a function callable only when the contract is paused.",
-            "id": 1128,
+            "id": 1071,
             "name": "whenPaused",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 1121,
+              "id": 1064,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "699:2:7"
+              "src": "699:2:6"
             },
-            "src": "680:56:7",
+            "src": "680:56:6",
             "visibility": "internal"
           },
           {
             "body": {
-              "id": 1142,
+              "id": 1085,
               "nodeType": "Block",
-              "src": "863:44:7",
+              "src": "863:44:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1137,
+                    "id": 1080,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 1135,
+                      "id": 1078,
                       "name": "_paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1103,
-                      "src": "869:7:7",
+                      "referencedDeclaration": 1046,
+                      "src": "869:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -565,14 +565,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "74727565",
-                      "id": 1136,
+                      "id": 1079,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "bool",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "879:4:7",
+                      "src": "879:4:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -580,15 +580,15 @@
                       },
                       "value": "true"
                     },
-                    "src": "869:14:7",
+                    "src": "869:14:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "id": 1138,
+                  "id": 1081,
                   "nodeType": "ExpressionStatement",
-                  "src": "869:14:7"
+                  "src": "869:14:6"
                 },
                 {
                   "eventCall": {
@@ -596,18 +596,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 1139,
+                      "id": 1082,
                       "name": "Paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1098,
-                      "src": "894:6:7",
+                      "referencedDeclaration": 1041,
+                      "src": "894:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 1140,
+                    "id": 1083,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -615,106 +615,106 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "894:8:7",
+                    "src": "894:8:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1141,
+                  "id": 1084,
                   "nodeType": "EmitStatement",
-                  "src": "889:13:7"
+                  "src": "889:13:6"
                 }
               ]
             },
             "documentation": "@dev called by the owner to pause, triggers stopped state",
-            "id": 1143,
+            "id": 1086,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": null,
-                "id": 1131,
+                "id": 1074,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1130,
+                  "id": 1073,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1379,
-                  "src": "839:9:7",
+                  "referencedDeclaration": 1322,
+                  "src": "839:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "839:9:7"
+                "src": "839:9:6"
               },
               {
                 "arguments": null,
-                "id": 1133,
+                "id": 1076,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1132,
+                  "id": 1075,
                   "name": "whenNotPaused",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1120,
-                  "src": "849:13:7",
+                  "referencedDeclaration": 1063,
+                  "src": "849:13:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "849:13:7"
+                "src": "849:13:6"
               }
             ],
             "name": "pause",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1129,
+              "id": 1072,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "829:2:7"
+              "src": "829:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1134,
+              "id": 1077,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "863:0:7"
+              "src": "863:0:6"
             },
-            "scope": 1159,
-            "src": "815:92:7",
+            "scope": 1102,
+            "src": "815:92:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1157,
+              "id": 1100,
               "nodeType": "Block",
-              "src": "1036:47:7",
+              "src": "1036:47:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1152,
+                    "id": 1095,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 1150,
+                      "id": 1093,
                       "name": "_paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1103,
-                      "src": "1042:7:7",
+                      "referencedDeclaration": 1046,
+                      "src": "1042:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -725,14 +725,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "66616c7365",
-                      "id": 1151,
+                      "id": 1094,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "bool",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1052:5:7",
+                      "src": "1052:5:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -740,15 +740,15 @@
                       },
                       "value": "false"
                     },
-                    "src": "1042:15:7",
+                    "src": "1042:15:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "id": 1153,
+                  "id": 1096,
                   "nodeType": "ExpressionStatement",
-                  "src": "1042:15:7"
+                  "src": "1042:15:6"
                 },
                 {
                   "eventCall": {
@@ -756,18 +756,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 1154,
+                      "id": 1097,
                       "name": "Unpaused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1100,
-                      "src": "1068:8:7",
+                      "referencedDeclaration": 1043,
+                      "src": "1068:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 1155,
+                    "id": 1098,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -775,103 +775,103 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1068:10:7",
+                    "src": "1068:10:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1156,
+                  "id": 1099,
                   "nodeType": "EmitStatement",
-                  "src": "1063:15:7"
+                  "src": "1063:15:6"
                 }
               ]
             },
             "documentation": "@dev called by the owner to unpause, returns to normal state",
-            "id": 1158,
+            "id": 1101,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": null,
-                "id": 1146,
+                "id": 1089,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1145,
+                  "id": 1088,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1379,
-                  "src": "1015:9:7",
+                  "referencedDeclaration": 1322,
+                  "src": "1015:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1015:9:7"
+                "src": "1015:9:6"
               },
               {
                 "arguments": null,
-                "id": 1148,
+                "id": 1091,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1147,
+                  "id": 1090,
                   "name": "whenPaused",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1128,
-                  "src": "1025:10:7",
+                  "referencedDeclaration": 1071,
+                  "src": "1025:10:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1025:10:7"
+                "src": "1025:10:6"
               }
             ],
             "name": "unpause",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1144,
+              "id": 1087,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1005:2:7"
+              "src": "1005:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1149,
+              "id": 1092,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1036:0:7"
+              "src": "1036:0:6"
             },
-            "scope": 1159,
-            "src": "989:94:7",
+            "scope": 1102,
+            "src": "989:94:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 1160,
-        "src": "174:911:7"
+        "scope": 1103,
+        "src": "174:911:6"
       }
     ],
-    "src": "0:1086:7"
+    "src": "0:1086:6"
   },
   "legacyAST": {
-    "absolutePath": "/home/lamluong/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
+    "absolutePath": "/home/lamlt/Documents/hackathon/BOT-Token/contracts/openzeppelin/lifecycle/Pausable.sol",
     "exportedSymbols": {
       "Pausable": [
-        1159
+        1102
       ]
     },
-    "id": 1160,
+    "id": 1103,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1093,
+        "id": 1036,
         "literals": [
           "solidity",
           "^",
@@ -879,16 +879,16 @@
           ".24"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:7"
+        "src": "0:24:6"
       },
       {
-        "absolutePath": "/home/lamluong/Documents/hackathon/BOT-Token/contracts/openzeppelin/ownership/Ownable.sol",
+        "absolutePath": "/home/lamlt/Documents/hackathon/BOT-Token/contracts/openzeppelin/ownership/Ownable.sol",
         "file": "../ownership/Ownable.sol",
-        "id": 1094,
+        "id": 1037,
         "nodeType": "ImportDirective",
-        "scope": 1160,
-        "sourceUnit": 1443,
-        "src": "26:34:7",
+        "scope": 1103,
+        "sourceUnit": 1386,
+        "src": "26:34:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -898,31 +898,31 @@
             "arguments": null,
             "baseName": {
               "contractScope": null,
-              "id": 1095,
+              "id": 1038,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 1442,
-              "src": "195:7:7",
+              "referencedDeclaration": 1385,
+              "src": "195:7:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$1442",
+                "typeIdentifier": "t_contract$_Ownable_$1385",
                 "typeString": "contract Ownable"
               }
             },
-            "id": 1096,
+            "id": 1039,
             "nodeType": "InheritanceSpecifier",
-            "src": "195:7:7"
+            "src": "195:7:6"
           }
         ],
         "contractDependencies": [
-          1442
+          1385
         ],
         "contractKind": "contract",
         "documentation": "@title Pausable\n@dev Base contract which allows children to implement an emergency stop mechanism.",
         "fullyImplemented": true,
-        "id": 1159,
+        "id": 1102,
         "linearizedBaseContracts": [
-          1159,
-          1442
+          1102,
+          1385
         ],
         "name": "Pausable",
         "nodeType": "ContractDefinition",
@@ -930,38 +930,38 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 1098,
+            "id": 1041,
             "name": "Paused",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 1097,
+              "id": 1040,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "219:2:7"
+              "src": "219:2:6"
             },
-            "src": "207:15:7"
+            "src": "207:15:6"
           },
           {
             "anonymous": false,
             "documentation": null,
-            "id": 1100,
+            "id": 1043,
             "name": "Unpaused",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 1099,
+              "id": 1042,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "239:2:7"
+              "src": "239:2:6"
             },
-            "src": "225:17:7"
+            "src": "225:17:6"
           },
           {
             "constant": false,
-            "id": 1103,
+            "id": 1046,
             "name": "_paused",
             "nodeType": "VariableDeclaration",
-            "scope": 1159,
-            "src": "246:28:7",
+            "scope": 1102,
+            "src": "246:28:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -969,10 +969,10 @@
               "typeString": "bool"
             },
             "typeName": {
-              "id": 1101,
+              "id": 1044,
               "name": "bool",
               "nodeType": "ElementaryTypeName",
-              "src": "246:4:7",
+              "src": "246:4:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_bool",
                 "typeString": "bool"
@@ -981,14 +981,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "66616c7365",
-              "id": 1102,
+              "id": 1045,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "bool",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "269:5:7",
+              "src": "269:5:6",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_bool",
@@ -1000,33 +1000,33 @@
           },
           {
             "body": {
-              "id": 1110,
+              "id": 1053,
               "nodeType": "Block",
-              "src": "397:25:7",
+              "src": "397:25:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1108,
+                    "id": 1051,
                     "name": "_paused",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 1103,
-                    "src": "410:7:7",
+                    "referencedDeclaration": 1046,
+                    "src": "410:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "functionReturnParameters": 1107,
-                  "id": 1109,
+                  "functionReturnParameters": 1050,
+                  "id": 1052,
                   "nodeType": "Return",
-                  "src": "403:14:7"
+                  "src": "403:14:6"
                 }
               ]
             },
             "documentation": "@return true if the contract is paused, false otherwise.",
-            "id": 1111,
+            "id": 1054,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -1034,23 +1034,23 @@
             "name": "paused",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1104,
+              "id": 1047,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "368:2:7"
+              "src": "368:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1107,
+              "id": 1050,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1106,
+                  "id": 1049,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1111,
-                  "src": "391:4:7",
+                  "scope": 1054,
+                  "src": "391:4:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1058,10 +1058,10 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 1105,
+                    "id": 1048,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
-                    "src": "391:4:7",
+                    "src": "391:4:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
@@ -1071,19 +1071,19 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "390:6:7"
+              "src": "390:6:6"
             },
-            "scope": 1159,
-            "src": "353:69:7",
+            "scope": 1102,
+            "src": "353:69:6",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1119,
+              "id": 1062,
               "nodeType": "Block",
-              "src": "548:35:7",
+              "src": "548:35:6",
               "statements": [
                 {
                   "expression": {
@@ -1091,7 +1091,7 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 1115,
+                        "id": 1058,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1099,15 +1099,15 @@
                         "nodeType": "UnaryOperation",
                         "operator": "!",
                         "prefix": true,
-                        "src": "562:8:7",
+                        "src": "562:8:6",
                         "subExpression": {
                           "argumentTypes": null,
-                          "id": 1114,
+                          "id": 1057,
                           "name": "_paused",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1103,
-                          "src": "563:7:7",
+                          "referencedDeclaration": 1046,
+                          "src": "563:7:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
                             "typeString": "bool"
@@ -1126,21 +1126,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 1113,
+                      "id": 1056,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1529,
-                        1530
+                        1472,
+                        1473
                       ],
-                      "referencedDeclaration": 1529,
-                      "src": "554:7:7",
+                      "referencedDeclaration": 1472,
+                      "src": "554:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 1116,
+                    "id": 1059,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1148,41 +1148,41 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "554:17:7",
+                    "src": "554:17:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1117,
+                  "id": 1060,
                   "nodeType": "ExpressionStatement",
-                  "src": "554:17:7"
+                  "src": "554:17:6"
                 },
                 {
-                  "id": 1118,
+                  "id": 1061,
                   "nodeType": "PlaceholderStatement",
-                  "src": "577:1:7"
+                  "src": "577:1:6"
                 }
               ]
             },
             "documentation": "@dev Modifier to make a function callable only when the contract is not paused.",
-            "id": 1120,
+            "id": 1063,
             "name": "whenNotPaused",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 1112,
+              "id": 1055,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "545:2:7"
+              "src": "545:2:6"
             },
-            "src": "523:60:7",
+            "src": "523:60:6",
             "visibility": "internal"
           },
           {
             "body": {
-              "id": 1127,
+              "id": 1070,
               "nodeType": "Block",
-              "src": "702:34:7",
+              "src": "702:34:6",
               "statements": [
                 {
                   "expression": {
@@ -1190,12 +1190,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 1123,
+                        "id": 1066,
                         "name": "_paused",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1103,
-                        "src": "716:7:7",
+                        "referencedDeclaration": 1046,
+                        "src": "716:7:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1209,21 +1209,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 1122,
+                      "id": 1065,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1529,
-                        1530
+                        1472,
+                        1473
                       ],
-                      "referencedDeclaration": 1529,
-                      "src": "708:7:7",
+                      "referencedDeclaration": 1472,
+                      "src": "708:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 1124,
+                    "id": 1067,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1231,58 +1231,58 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "708:16:7",
+                    "src": "708:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1125,
+                  "id": 1068,
                   "nodeType": "ExpressionStatement",
-                  "src": "708:16:7"
+                  "src": "708:16:6"
                 },
                 {
-                  "id": 1126,
+                  "id": 1069,
                   "nodeType": "PlaceholderStatement",
-                  "src": "730:1:7"
+                  "src": "730:1:6"
                 }
               ]
             },
             "documentation": "@dev Modifier to make a function callable only when the contract is paused.",
-            "id": 1128,
+            "id": 1071,
             "name": "whenPaused",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 1121,
+              "id": 1064,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "699:2:7"
+              "src": "699:2:6"
             },
-            "src": "680:56:7",
+            "src": "680:56:6",
             "visibility": "internal"
           },
           {
             "body": {
-              "id": 1142,
+              "id": 1085,
               "nodeType": "Block",
-              "src": "863:44:7",
+              "src": "863:44:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1137,
+                    "id": 1080,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 1135,
+                      "id": 1078,
                       "name": "_paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1103,
-                      "src": "869:7:7",
+                      "referencedDeclaration": 1046,
+                      "src": "869:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -1293,14 +1293,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "74727565",
-                      "id": 1136,
+                      "id": 1079,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "bool",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "879:4:7",
+                      "src": "879:4:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -1308,15 +1308,15 @@
                       },
                       "value": "true"
                     },
-                    "src": "869:14:7",
+                    "src": "869:14:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "id": 1138,
+                  "id": 1081,
                   "nodeType": "ExpressionStatement",
-                  "src": "869:14:7"
+                  "src": "869:14:6"
                 },
                 {
                   "eventCall": {
@@ -1324,18 +1324,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 1139,
+                      "id": 1082,
                       "name": "Paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1098,
-                      "src": "894:6:7",
+                      "referencedDeclaration": 1041,
+                      "src": "894:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 1140,
+                    "id": 1083,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1343,106 +1343,106 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "894:8:7",
+                    "src": "894:8:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1141,
+                  "id": 1084,
                   "nodeType": "EmitStatement",
-                  "src": "889:13:7"
+                  "src": "889:13:6"
                 }
               ]
             },
             "documentation": "@dev called by the owner to pause, triggers stopped state",
-            "id": 1143,
+            "id": 1086,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": null,
-                "id": 1131,
+                "id": 1074,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1130,
+                  "id": 1073,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1379,
-                  "src": "839:9:7",
+                  "referencedDeclaration": 1322,
+                  "src": "839:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "839:9:7"
+                "src": "839:9:6"
               },
               {
                 "arguments": null,
-                "id": 1133,
+                "id": 1076,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1132,
+                  "id": 1075,
                   "name": "whenNotPaused",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1120,
-                  "src": "849:13:7",
+                  "referencedDeclaration": 1063,
+                  "src": "849:13:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "849:13:7"
+                "src": "849:13:6"
               }
             ],
             "name": "pause",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1129,
+              "id": 1072,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "829:2:7"
+              "src": "829:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1134,
+              "id": 1077,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "863:0:7"
+              "src": "863:0:6"
             },
-            "scope": 1159,
-            "src": "815:92:7",
+            "scope": 1102,
+            "src": "815:92:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1157,
+              "id": 1100,
               "nodeType": "Block",
-              "src": "1036:47:7",
+              "src": "1036:47:6",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 1152,
+                    "id": 1095,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 1150,
+                      "id": 1093,
                       "name": "_paused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1103,
-                      "src": "1042:7:7",
+                      "referencedDeclaration": 1046,
+                      "src": "1042:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -1453,14 +1453,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "66616c7365",
-                      "id": 1151,
+                      "id": 1094,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "bool",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1052:5:7",
+                      "src": "1052:5:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -1468,15 +1468,15 @@
                       },
                       "value": "false"
                     },
-                    "src": "1042:15:7",
+                    "src": "1042:15:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
-                  "id": 1153,
+                  "id": 1096,
                   "nodeType": "ExpressionStatement",
-                  "src": "1042:15:7"
+                  "src": "1042:15:6"
                 },
                 {
                   "eventCall": {
@@ -1484,18 +1484,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 1154,
+                      "id": 1097,
                       "name": "Unpaused",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1100,
-                      "src": "1068:8:7",
+                      "referencedDeclaration": 1043,
+                      "src": "1068:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 1155,
+                    "id": 1098,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1503,90 +1503,90 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1068:10:7",
+                    "src": "1068:10:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1156,
+                  "id": 1099,
                   "nodeType": "EmitStatement",
-                  "src": "1063:15:7"
+                  "src": "1063:15:6"
                 }
               ]
             },
             "documentation": "@dev called by the owner to unpause, returns to normal state",
-            "id": 1158,
+            "id": 1101,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": null,
-                "id": 1146,
+                "id": 1089,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1145,
+                  "id": 1088,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1379,
-                  "src": "1015:9:7",
+                  "referencedDeclaration": 1322,
+                  "src": "1015:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1015:9:7"
+                "src": "1015:9:6"
               },
               {
                 "arguments": null,
-                "id": 1148,
+                "id": 1091,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 1147,
+                  "id": 1090,
                   "name": "whenPaused",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 1128,
-                  "src": "1025:10:7",
+                  "referencedDeclaration": 1071,
+                  "src": "1025:10:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1025:10:7"
+                "src": "1025:10:6"
               }
             ],
             "name": "unpause",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1144,
+              "id": 1087,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1005:2:7"
+              "src": "1005:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 1149,
+              "id": 1092,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1036:0:7"
+              "src": "1036:0:6"
             },
-            "scope": 1159,
-            "src": "989:94:7",
+            "scope": 1102,
+            "src": "989:94:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 1160,
-        "src": "174:911:7"
+        "scope": 1103,
+        "src": "174:911:6"
       }
     ],
-    "src": "0:1086:7"
+    "src": "0:1086:6"
   },
   "compiler": {
     "name": "solc",
@@ -1594,5 +1594,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-10-21T07:39:47.350Z"
+  "updatedAt": "2018-10-22T09:43:38.633Z"
 }

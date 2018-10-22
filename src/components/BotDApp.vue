@@ -29,12 +29,12 @@
           >
           </v-text-field>
           <v-text-field
-            v-model="burnnNumberToken"
+            v-model="burnNumberToken"
             required
             label="Number Tokens"
           >
           </v-text-field>
-          <v-btn block color="rgb(249, 104, 84)">
+          <v-btn block color="rgb(249, 104, 84)" @click="actionBurn">
             Burn
           </v-btn>
         </v-form>
@@ -65,7 +65,7 @@ export default {
       mintId: 0,
       mintNumberToken: 0,
       burnId: 0,
-      burnnNumberToken: 0,
+      burnNumberToken: 0,
       currentCharge: 0,
       totalCharge: 1000000,
     };
@@ -80,10 +80,20 @@ export default {
       let _mintNumberToken = this.mintNumberToken;
       console.log("mint token");
       if (!_mintId || !_mintNumberToken) {
-        window.alert("fill enought information");
+        window.alert("fill enought Mint information");
         return;
       }
-      BOTToken.mintToken(this.mintId, this.mintNumberToken);
+      BOTToken.mintToken(_mintId, _mintNumberToken);
+    },
+    actionBurn () {
+      let _burnId = this.burnId;
+      let _burnNumberToken = this.burnNumberToken;
+      console.log("burn token");
+      if (!_burnId || !_burnNumberToken) {
+        window.alert("fill enought Burn information");
+        return;
+      }
+      BOTToken.burnToken(_burnId, _burnNumberToken);
     }
   }
 };
