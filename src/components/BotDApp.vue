@@ -1,5 +1,7 @@
 <template>
   <v-container grid-list-md text-xs-center>
+    <h1> <img src="@/assets/ether_icon.png" class="ether-icon"> BOT Owner DAPP</h1>
+    <hr class="mb-5">
     <v-layout row wrap>
       <v-flex xs5>
         <v-form ref="form-mint">
@@ -14,6 +16,7 @@
             label="Number Tokens"
           >
           </v-text-field>
+          <span>${{formatReadableAmount(this.mintNumberToken*this.exchangeRate)}}</span>
           <v-btn block color="rgb(249, 104, 84)" @click="actionMint">
             Mint
           </v-btn>
@@ -34,6 +37,7 @@
             label="Number Tokens"
           >
           </v-text-field>
+          <span>${{formatReadableAmount(this.burnNumberToken*this.exchangeRate)}}</span>
           <v-btn block color="rgb(249, 104, 84)" @click="actionBurn">
             Burn
           </v-btn>
@@ -42,12 +46,12 @@
 
       <v-flex xs12>
         <v-card dark color="primary">
-          <v-card-text class="px-0">Current Charge: {{currentCharge}}</v-card-text>
+          <v-card-text class="px-0 mt-5">Current Charge: {{this.formatCurrentCharge}}</v-card-text>
         </v-card>
       </v-flex>
       <v-flex xs12>
         <v-card dark color="primary">
-          <v-card-text class="px-0">Total Charge: {{totalCharge}}</v-card-text>
+          <v-card-text class="px-0">Total Charge: {{this.formatTotalCharge}}</v-card-text>
         </v-card>
       </v-flex>
     </v-layout>
@@ -66,13 +70,33 @@ export default {
       mintNumberToken: 0,
       burnId: 0,
       burnNumberToken: 0,
-      currentCharge: 0,
-      totalCharge: 1000000,
+      currentCharge: 3004250000,
+      totalCharge: 9687543205649,
+      exchangeRate: 2000,
     };
+  },
+  computed: {
+    formatCurrentCharge() {
+      let val = (this.currentCharge/1).toFixed(2).replace('.', ',')
+      return val.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")
+    },
+    formatTotalCharge() {
+      let val = (this.totalCharge/1).toFixed(2).replace('.', ',')
+      return val.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")
+    },
+    burnAmount() {
+
+    },
+    mintAmount() {
+
+    },
   },
   beforeCreate () {
     BOTToken.init();
     BOTToken.getSystemWallet();
+  },
+  created() {
+    // TO DO: get exchange rate
   },
   methods: {
     actionMint () {
@@ -94,24 +118,18 @@ export default {
         return;
       }
       BOTToken.burnToken(_burnId, _burnNumberToken);
+    },
+    formatReadableAmount(value) {
+      let val = (value/1).toFixed(2).replace('.', ',')
+      return val.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")
     }
   }
 };
 </script>
 
 <style scoped>
-h1, h2 {
-  font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+.ether-icon {
+  width: 12px;
+  height: 20px;
 }
 </style>
